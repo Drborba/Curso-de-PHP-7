@@ -18,7 +18,7 @@
         <div class="conteudo">
             <nav class="modulos">
                 <div class="modulo verde">
-                    <h3>Básico</h3>
+                    <h3>1. Básico</h3>
                     <ul>
                         <li>
                             <a 
@@ -41,7 +41,7 @@
                     </ul>
                 </div>
                 <div class="modulo vermelho">
-                    <h3>Tipos</h3>
+                    <h3>2. Tipos</h3>
                     <ul>
                         <li>
                             <a 
@@ -65,6 +65,87 @@
                             <a 
                             href="exercicio.php?dir=tipos&file=string">
                             Tipo String
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=tipos&file=desafio_string">
+                            Desafio String
+                            </a>
+                        </li>
+                          <li>
+                            <a 
+                            href="exercicio.php?dir=tipos&file=booleano">
+                            Tipo Booleano
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=tipos&file=conversoes">
+                            Conversões
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo azul">
+                    <h3>3. Variáveis</h3>
+                    <ul>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=basico">
+                            Variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=desafio_equacao">
+                            Desafio Equação
+                            </a>
+                            <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=atribuicoes">
+                            Atribuições
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=interpolacao">
+                            Interpolação
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=variaveis_variaveis">
+                            Variáveis variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=desafio_variaveis">
+                            Desafio variáveis
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=valor_referencia">
+                            Valor vs Referência
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=variaveis&file=constantes">
+                            Constantes
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="modulo roxo">
+                    <h3>4. Controle</h3>
+                    <ul>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=controle&file=if_else">
+                            If Else
                             </a>
                         </li>
                     </ul>
