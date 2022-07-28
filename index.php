@@ -38,6 +38,18 @@
                             Desafio PHP
                             </a>
                         </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=basico&file=css">
+                            CSS em PHP
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=basico&file=comentarios">
+                            Comentários
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="modulo vermelho">

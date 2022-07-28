@@ -1,1 +1,2 @@
 # Curso-de-PHP-7
+Curso ministrado pela Cod3r tendo como professor Leonardo Moura Leitão. Todos os códigos desenvolvidos durante as aulas estarão aqui como forma de registro para consulta e estudos futuros.
