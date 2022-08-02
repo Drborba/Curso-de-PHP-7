@@ -24,10 +24,10 @@ var_dump(true || false);
 var_dump(false || true);
 var_dump(false || false);
 
-var_dump(true OR true);
-var_dump(true OR false);
-var_dump(false OR true);
-var_dump(false OR false);
+// var_dump(true OR true);
+// var_dump(true OR false);
+// var_dump(false OR true);
+// var_dump(false OR false);
 
 echo "<p class='divisao'>Tabela Verdade 'XOR' (OU Exclusivo)</p><hr>";
 var_dump(true xor true);
