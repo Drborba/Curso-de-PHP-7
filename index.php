@@ -231,6 +231,24 @@
                             Desafio Meses
                             </a>
                         </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=array&file=operacoes">
+                            Operações
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=array&file=desafio_sorteio">
+                            Desafio Sorteio
+                            </a>
+                        </li>
+                        <li>
+                            <a 
+                            href="exercicio.php?dir=array&file=multi">
+                            Multidimensionais
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </nav>
