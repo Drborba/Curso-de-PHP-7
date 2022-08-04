@@ -17,5 +17,11 @@ $meses = array(
 );
 
 
-print_r($meses);
-echo '<br>' . $meses[6];
+// print_r($meses);
+// echo '<br>' . $meses[6];
+
+foreach($meses as $indice => $valor) {
+
+    echo "$indice => $valor . <br>";
+
+}
